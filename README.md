@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Iskander14yo
-- 👀 I’m interested in R programming and statistics science.
-- 🌱 I’m currently learning sql and github.
-- 💞️ Looking for work and journies!
-- 📫 How to reach me: dm gua4dian@gmail.com
+Hello,
 
 If you were redirected to my profile there are 2 reasons for it. First one is random (it's unlikely but it's possible). Second one is link in my trainee
-resume for companies. If you are here because of last one you can check my works if you want to or dm me via attached mail.
+resume for companies. If you are here because of last one you may check my works if you want to or dm me via gua4dian@gmail.com
